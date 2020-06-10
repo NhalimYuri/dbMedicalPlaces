@@ -1,5 +1,5 @@
 {
-"medicalplaces" = [{"country":"Peru","id":"0","latitud":"-11.88472945","longitud" :"-77.1230678536419","centro_nombre":"MATERNO INFANTIL PACHACUTEC  PERU-COREA","gobierno_nombre":"-","departamento":"-","provincia":"-","distrito":"-"},
+"medicalplaces" : [{"country":"Peru","id":"0","latitud":"-11.88472945","longitud" :"-77.1230678536419","centro_nombre":"MATERNO INFANTIL PACHACUTEC  PERU-COREA","gobierno_nombre":"-","departamento":"-","provincia":"-","distrito":"-"},
 {"country":"Peru","id":"1","latitud":"-5.2106747","longitud" :"-80.0883637","centro_nombre":"P.S  I-2  LA BOCANA","gobierno_nombre":"-","departamento":"-","provincia":"-","distrito":"-"},
 {"country":"Peru","id":"2","latitud":"-8.5588272","longitud" :"-74.8123395127922","centro_nombre":"P.S  LAS MERCEDES KM. 42","gobierno_nombre":"-","departamento":"-","provincia":"-","distrito":"-"},
 {"country":"Peru","id":"3","latitud":"-5.5677869","longitud" :"-79.523988","centro_nombre":"P.S  SUCCHIRCA","gobierno_nombre":"-","departamento":"-","provincia":"-","distrito":"-"},
