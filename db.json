@@ -394,17 +394,6 @@
 			"departamento": "CUSCO",
 			"provincia": "PARURO",
 			"distrito": "OMACHA"
-		},
-		{
-			"country": "Peru",
-			"id": "100",
-			"latitud": "-6.8355968",
-			"longitud": "-78.018516",
-			"centro_nombre": "BALZAS",
-			"gobierno_nombre": "GOBIERNO REGIONAL",
-			"departamento": "AMAZONAS",
-			"provincia": "CHACHAPOYAS",
-			"distrito": "BALSAS"
 		}
 	]
 }
